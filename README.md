@@ -25,7 +25,7 @@ Help Nitrocapt and utility partners like Vattenfall analyze:
 [Click here to view the live dashboard](https://districtheatingnc.streamlit.app)
 
 📁 **Files**
-- `district_heating_dashboard.py`: Main Streamlit app
+- `dh_dashboard.py`: Main Streamlit app
 - `requirements.txt`: Dependencies for deployment
 
 📬 **Developed by**  
